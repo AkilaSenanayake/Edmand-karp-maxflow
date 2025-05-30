@@ -44,7 +44,6 @@ The input file should follow this structure:
 
 1. **Compile all Java files:**
 
-```bash
 javac Main.java
 
 🖥️ Example Output
